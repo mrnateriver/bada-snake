@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Application>
+    <Entry>Snake</Entry>
+    <Name>
+        <English>Snake</English>
+        <rus-RU>Snake</rus-RU>
+        <ukr-UA>Snake</ukr-UA>
+    </Name>
+    <Vendor>Evgenii Dobrovidov</Vendor>
+    <Description>Snake. As simple as it could be.</Description>
+    <Icons>
+        <MainMenu>Snake.png<Type1>Snake.png</Type1>
+            <Type2/>
+        </MainMenu>
+        <Setting/>
+        <Ticker/>
+        <QuickPanel/>
+        <LaunchImage>Splash.png<Type1>Splash.png</Type1>
+            <Type2/>
+        </LaunchImage>
+    </Icons>
+    <AutoScaling>
+        <Enabled>false</Enabled>
+    </AutoScaling>
+</Application>
